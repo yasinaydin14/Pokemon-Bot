@@ -1,0 +1,24 @@
+numpy
+pandas
+tqdm
+orjson
+matplotlib
+scipy
+scikit-learn
+torch
+transformers
+accelerate
+wandb
+evaluate
+datasets
+# flash_attn # optional
+asyncio
+websockets
+openai
+bitsandbytes
+google-genai
+ollama
+requests
+pytest
+huggingface-hub
+termcolor
