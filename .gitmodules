@@ -1,3 +1,6 @@
 [submodule "server/pokemon-showdown"]
 	path = server/pokemon-showdown
 	url = git@github.com:smogon/pokemon-showdown.git
+[submodule "pokechamp"]
+	path = pokechamp
+	url = https://github.com/yasinaydin14/pokechamp.git
